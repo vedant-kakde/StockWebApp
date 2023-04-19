@@ -1,0 +1,9 @@
+# These are the python modules that are required for running the project
+
+pandas
+tensorflow
+keras
+scikit-learn
+
+flask
+flask_cors
